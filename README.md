@@ -1,0 +1,1 @@
+# django-essencial2.0
